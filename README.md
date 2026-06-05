@@ -10,7 +10,7 @@ The dataset is synthetically generated using Scikit-Learn's `make_classification
 ## Video Walkthrough
 
 Watch the project walkthrough here:
-https://drive.google.com/file/d/188cAf_-VcYefk1jyU4dHvi4ekS8BfTXo/view?usp=sharing
+https://drive.google.com/file/d/1hcS7-cU3oqNF-ivIwLNuidk3u-jNxdZX/view?usp=sharing
 
 ## Problem Statement
 
