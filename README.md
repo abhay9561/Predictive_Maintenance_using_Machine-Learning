@@ -7,6 +7,10 @@ This project develops a predictive maintenance model for a manufacturing environ
 The dataset is synthetically generated using Scikit-Learn's `make_classification()` and contains 100,000 sensor readings. Only 0.5% of observations represent machine failures, making this a highly imbalanced classification problem.
 
 ---
+## Video Walkthrough
+
+Watch the project walkthrough here:
+https://drive.google.com/file/d/188cAf_-VcYefk1jyU4dHvi4ekS8BfTXo/view?usp=sharing
 
 ## Problem Statement
 
